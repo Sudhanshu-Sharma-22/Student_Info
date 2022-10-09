@@ -4,6 +4,7 @@ import Card from '../components/Card'
 import TusharGupta from "../Images/TusharGupta.jpg"
 import AdityaSharma from "../Images/AdityaSharma.jpg"
 import Sudhanshusharma from "../Images/SudhanshuSharma.jpg"
+import IshitaSrivastav from "../Images/IshitaSrivastav.jpg"
 
 export default function Home() {
   return (
@@ -23,6 +24,8 @@ export default function Home() {
         <Card image={AdityaSharma}name = "Aditya Sharma" about="future billionaire pr abhi gareeb hu" instagram= "https://www.instagram.com/iaddy29/"  twitter="https://twitter.com/iaddy29" linkedin="https://www.linkedin.com/in/aditya-sharma-2b4a64222/"/>
        
        <Card image={SudhanshuSharma}name = "Sudhanshu Sharma" about="dm for fun" instagram= "https://www.instagram.com/cpt_n3m0_22/"  twitter="https://twitter.com/Sudhanshu226922" linkedin="https://www.linkedin.com/in/sudhanshu-sharma-9376931b7/"/>
+       
+         <Card image={IshitaSrivastav}name = "Ishita Srivastav" about="having fun...." instagram= "https://www.instagram.com/ishitaa_xo/"  twitter="" linkedin=""/>
        
       </main>
 
